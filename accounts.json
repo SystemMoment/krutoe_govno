@@ -65,6 +65,12 @@
         "havesub": "no",
         "uid": 9
     },
+    "System": {
+        "password": "krutoisystem",
+        "havesub": "yes",
+        "sub_end": "2039-12-09",
+        "uid": "1"
+    },
     "DEFA": {
         "password": "gooblyck777",
         "havesub": "yes",
