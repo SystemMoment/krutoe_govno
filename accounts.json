@@ -67,6 +67,8 @@
     },
     "System": {
         "password": "krutoisystem",
+        "key": "PQ39XW8LFKZV7JQ2NDY6",
+        "hwid": "3290a3c5bdd7e072f7d8a882fa612bd243c71f13b72b9fc2d3a0e8a146ffb99b",
         "havesub": "yes",
         "sub_end": "2039-12-09",
         "uid": "1"
