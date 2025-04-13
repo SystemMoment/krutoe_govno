@@ -66,18 +66,11 @@
         "uid": 9
     },
     "System": {
-        "password": "krutoisystem",
-        "key": "PQ39XW8LFKZV7JQ2NDY6",
-        "hwid": "3290a3c5bdd7e072f7d8a882fa612bd243c71f13b72b9fc2d3a0e8a146ffb99b",
+        "password": "krutoiSystem",
+        "key": "K7N4P8X2M9Q5T3Y6W1J0",
+        "hwid": "187727886c81c51cf13d3c30baea6dbdf12fd726d05f02c18eba699e77d0b51e",
         "havesub": "yes",
-        "sub_end": "2039-12-09",
-        "uid": "1"
-    },
-    "DEFA": {
-        "password": "gooblyck777",
-        "havesub": "yes",
-        "uid": 83,
-        "key": "ZV7JQ2NDY64XW8LFKP39",
-        "sub_end": "no"
+        "sub_end": "9999-12-31",
+        "uid": "1488"
     }
 }
